@@ -8,6 +8,6 @@ You Are Invited to Celebrate my 20th Birthday
 
 September 8, 2019 5:00pm - Midnight
 
-Address: 7058 Grass Rd, Saline, MI 48176
+Address: Saline, MI (street address redacted)
 
-Hosted By: Julio Ribeiro Barros (734) 249-2768
+Hosted By: Julio Ribeiro Barros (phone redacted for public portfolio)

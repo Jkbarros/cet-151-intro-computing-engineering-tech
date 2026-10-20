@@ -4,7 +4,7 @@
 **Course:** CET 151 — Intro to Computing in Engineering Technology (EMU)  
 **Author:** Julio Barros
 
-|  | Julio Barros 7058 Grass Rd, Saline, MI 48176 | jribeir2@emich.edu | +1(734)2492768 |
+|  | Julio Barros \| Saline, MI (street address redacted) \| contact redacted for public portfolio |
 | --- | --- |
 | Objective | Seeking the role of Mechanical Engineer Fresher where I would be given an opportunity to utilize the theoretical skills, sense of responsibility and efficiency to help the organization grow. |
 | Skills & Abilities | Social; Speak 3 languages: Portuguese, English, and Spanish; Familiar with computers, including Microsoft and Google Programs; Fast, Efficient, and Organized; Familiar with fast food system of working. |

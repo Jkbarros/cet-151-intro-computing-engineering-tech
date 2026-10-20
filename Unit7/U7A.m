@@ -1,4 +1,4 @@
-disp('Project 7C - Julio Barros;E01963387');
+disp('Project 7C - Julio Barros;E0XXXXXXX');
 format bank
 
 x = [30,50,20,18,15,35,46,25,12,9];

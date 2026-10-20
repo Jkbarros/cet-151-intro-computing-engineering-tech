@@ -1,4 +1,4 @@
-// Julio Barros, E01963387 
+// Julio Barros — student ID redacted
 
 #include <stdio.h>
 #include <conio.h>

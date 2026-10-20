@@ -1,6 +1,6 @@
 clear all
 
-disp('Julio Barros - E01963387 - (734)249-2768');
+disp('Julio Barros - E0XXXXXXX');
 format bank
 
 a=input('Enter the value of a:');

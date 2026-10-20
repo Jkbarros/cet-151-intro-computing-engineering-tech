@@ -1,4 +1,4 @@
-disp('Project 7C - Julio Barros;E01963387');
+disp('Project 7C - Julio Barros;E0XXXXXXX');
 format bank
 
 W=input('Enter the Width of the Beam:');

@@ -4,7 +4,7 @@
 **Course:** CET 151 — Intro to Computing in Engineering Technology (EMU)  
 **Author:** Julio Barros
 
-Name: Julio Barros 					EID: 1963389
+Name: Julio Barros 					EID: E0XXXXXXX (redacted)
 
 - 127 inches = 3226. millimeters
 
