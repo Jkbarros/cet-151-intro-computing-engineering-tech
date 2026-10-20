@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+~$*.docx
+__MACOSX/
+*.class
+*.exe

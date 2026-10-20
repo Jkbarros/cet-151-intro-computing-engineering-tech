@@ -1,0 +1,13 @@
+x=-2:0.1:2;
+f=x.^2-1;
+g=exp(x/5);
+plot(x,f,'b-',x,g,'r:');
+xlabel('x');
+ylabel('f,g');
+legend('f(x)','g(x)');
+text(-1.35,1,'f=g near here');
+text(0.85,1.5,'f=g near here');
+disp('f(x) and g(x) are equal in this point from the left:');
+fzero(@(x) x^2-1-exp(x/5),-1.3);
+disp('f(x) and g(x) are equal in this point from the right:');
+fzero(@(x) x^2-1-exp(x/5),1.5);
