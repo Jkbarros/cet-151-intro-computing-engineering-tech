@@ -10,6 +10,7 @@ MATLAB (`.m`), Excel automation, C++ exercises, and unit projects from engineeri
 
 | Area | Description |
 |------|-------------|
+| [Repository guide](docs/repository-guide.md) | Unit folders, file types, and how to navigate |
 | Unit folders (`Unit 1` through `Unit 14`, tests) | MATLAB, spreadsheets, and C++ coursework by unit |
 
 ### Highlights
