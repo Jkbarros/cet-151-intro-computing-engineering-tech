@@ -1,5 +1,7 @@
 # Repository guide — CET 151
 
+Start with the **[units catalog](units-catalog.md)** for links to markdown write-ups per unit.
+
 Coursework is organized by **unit folders** at the repository root (Canvas export layout).
 
 | Folder pattern | Typical contents |
